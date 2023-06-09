@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>H2O space</title>
+	<atom:link href="https://h2o-space.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://h2o-space.com</link>
+	<description>ちゃんとWeb</description>
+	<lastBuildDate>Wed, 14 Dec 2022 12:56:41 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://h2o-space.com/wp-content/uploads/2020/02/favicon.ico</url>
+	<title>H2O space</title>
+	<link>https://h2o-space.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">201181585</site>	<item>
+		<title>動画撮影用SDカードの性能を見る時は、ラベルのここをチェックしよう</title>
+		<link>https://h2o-space.com/2022/12/5581/</link>
+					<comments>https://h2o-space.com/2022/12/5581/#respond</comments>
+		
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2022 12:56:39 +0000</pubDate>
+				<category><![CDATA[YouTubeマーケティング]]></category>
+		<category><![CDATA[camera]]></category>
+		<guid isPermaLink="false">https://h2o-space.com/?p=5581</guid>
+
+					<description><![CDATA[SDカードには容量以外にも、さまざまな性能があります。自分が利用しているカメラの種類や、撮影したい動画によって最適な選択肢が変わるので、選び方を紹介しましょう。]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1220" height="687" src="https://www.youtube.com/embed/9xuep2tZO-U?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=ja&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div></figure>
+
+
+
+<p>動画の撮影には欠かせないSDカード。しかし、いざ購入しようとすると同じメーカーからもものすごい種類のSDカードが販売されています。そして、そのカードに貼ってあるシールには、意味の分からない数字や記号が所狭しと並べられています。</p>
+
+
+
+<p>いったいSDカードには、どのような種類があって、どのように見分けたらよいのでしょう？　ここでは、SDカードの性能の見かたについて紹介しましょう。</p>
+
+
+
+<h2>まずは、大きさをチェックしよう</h2>
+
+
+
+<p>SDカードを見分けるとき、まず最もわかりやすいものに大きさがあります。SDカードの仲間に「microSD」という一回り小さなサイズのSDカードがあります。主に、スマートフォンやゲーム機などで利用されているカードで、カメラの場合はコンパクトなものを除けば、ほぼ利用されることはありません。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1220" height="686" src="https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=1220%2C686&#038;ssl=1" alt="" class="wp-image-5585" srcset="https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=1320%2C743&amp;ssl=1 1320w, https://i0.wp.com/h2o-space.com/wp-content/uploads/2022/12/image.png?resize=600%2C338&amp;ssl=1 600w" sizes="(max-width: 1220px) 100vw, 1220px" data-recalc-dims="1" /></figure>
+
+
+
+<p>「アダプター」を利用すると、microSDカードをSDカードの機器で利用することもできますが、この後紹介する「転送速度」が下がってしまううえ、信頼性も落ちてしまうので撮影には好ましくありません（microSDカードのデータをPCなどに取り込むときに利用されます）</p>
+
+
+
+<h2>容量は大容量すぎるものにも注意</h2>
+
+
+
+<p>次に見るのがSDカードの容量です。小さなものでは32GB程度のものから、128, 256, 512GBと大きくなっていきます。この「GB」という単位は「ギガバイト」と読み、データの量を表す単位です。1バイトというデータが約1,000バイトで「1KB（キロバイト）」という単位に代わり、その1,000倍が「MB（メガバイト）」、さらにその1,000倍が「GB（ギガバイト）」となります。</p>
+
+
+
+<p>動画は当然ながらデータ量が多いため、32GBのSDカードの場合、フルHD画質で5時間前後、4K動画では1時間未満程度しか撮影ができません。容量が多ければ、長時間、高画質で撮影をすることができます。</p>
+
+
+
+<p>ただし注意しなければならないのが、価格と耐久性です。容量が大きくなれば、その分1枚の価格が高額になっていきます。とはいえSDカードは壊れてしまったり、なくしてしまったりすることもあります。大容量のSDカードにまとめて動画を入れておいたりすると、そのような時のリスクが大きくなってしまいます。</p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4880</post-id>	</item>
+	</channel>
+</rss>

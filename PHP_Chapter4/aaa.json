@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format. To add this feed to your reader, copy the following URL -- https://h2o-space.com/feed/json -- and add it your reader.",
+    "home_page_url": "https://h2o-space.com",
+    "feed_url": "https://h2o-space.com/feed/json",
+    "title": "H2O space",
+    "description": "ちゃんとWeb",
+    "items": [
+        {
+            "id": "https://h2o-space.com/2018/02/1539/",
+            "url": "https://h2o-space.com/2018/02/1539/",
+            "title": "【3/25】Adobe Creative CloudRの最新web制作実践講座に出演いたします",
+            "date_published": "2018-02-08T23:45:05+00:00",
+            "date_modified": "2018-02-08T23:45:05+00:00",
+            "author": {
+                "name": "TANIGUCHIMakoto"
+            }
+        },
+        {
+            "id": "https://h2o-space.com/2018/02/1537/",
+            "url": "https://h2o-space.com/2018/02/1537/",
+            "title": "【2/25】ウェブかける × Dreamweaver（XDもあるよ！）に出演いたします",
+            "date_published": "2018-02-08T23:43:17+00:00",
+            "date_modified": "2018-02-08T23:43:17+00:00",
+            "author": {
+                "name": "TANIGUCHIMakoto"
+            }
+        }
+    ]
+}
